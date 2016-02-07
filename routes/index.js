@@ -15,4 +15,14 @@ router.get('/about', function(req, res, next) {
 router.get('/contact', function(req, res, next) {
   res.render('contact', { title: 'Contact Me' });
 });
+
+/* GET Projects page. */
+router.get('/projects', function(req, res, next) {
+  res.render('projects', { title: 'Projects' });
+});
+
+/* GET Services page. */
+router.get('/services', function(req, res, next) {
+  res.render('services', { title: 'Services' });
+});
 module.exports = router;
