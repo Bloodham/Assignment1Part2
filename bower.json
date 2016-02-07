@@ -1,0 +1,24 @@
+{
+  "name": "Assignment1Part2",
+  "description": "Assignment1 Part 2 deployed on azure",
+  "main": "",
+  "authors": [
+    "Bloodham <bloodham25@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bloodham/",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/Scripts/lib"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
