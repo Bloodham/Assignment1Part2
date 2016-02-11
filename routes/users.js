@@ -1,3 +1,8 @@
+/*users.ejs
+Ryan Jameson
+Ryan's Profile
+Grabs users
+ */
 var express = require('express');
 var router = express.Router();
 

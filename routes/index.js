@@ -1,3 +1,8 @@
+/*index.ejs
+Ryan Jameson
+Ryan's Profile
+Links to each of the pages
+ */
 var express = require('express');
 var router = express.Router();
 
